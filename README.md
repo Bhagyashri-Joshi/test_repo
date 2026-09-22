@@ -1,3 +1,3 @@
 # test_repo:
 
-for testing various github properties.
+for testing various github actions.
